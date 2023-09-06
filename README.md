@@ -11,7 +11,6 @@
     <p>Bu proje, HTML ve CSS kullanarak oluşturulan bir turizm şirketi web sitesini içermektedir.</p>
   </header>
   <div class="container">
-    
     <h2>Kullanılan Teknolojiler</h2>
     <ul>
         <li>HTML</li>
